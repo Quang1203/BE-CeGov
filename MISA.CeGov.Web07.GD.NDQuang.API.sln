@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MISA.CeGov.Web07.GD.NDQuang.API", "MISA.CeGov.Web07.GD.NDQuang.API\MISA.CeGov.Web07.GD.NDQuang.API.csproj", "{B702062D-BA2A-43B2-A5A5-B43E759479CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MISA.CeGov.Web07.GD.NDQuang.API.Core", "MISA.CeGov.Web07.GD.NDQuang.API.Core\MISA.CeGov.Web07.GD.NDQuang.API.Core.csproj", "{B690227A-5598-471F-82BA-40DEC40AEB1E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MISA.CeGov.Web07.GD.NDQuang.Infrastructure", "MISA.CeGov.Web07.GD.NDQuang.Infrastructure\MISA.CeGov.Web07.GD.NDQuang.Infrastructure.csproj", "{03D49F7F-B832-40B3-BB19-00BEAD83374C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MISA.CeGov.Web07.GD.NDQuang.Common", "MISA.CeGov.Web07.GD.NDQuang.Common\MISA.CeGov.Web07.GD.NDQuang.Common.csproj", "{55FE2FC4-DD02-421A-AEB2-FEC38F44338C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B702062D-BA2A-43B2-A5A5-B43E759479CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B702062D-BA2A-43B2-A5A5-B43E759479CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B702062D-BA2A-43B2-A5A5-B43E759479CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B702062D-BA2A-43B2-A5A5-B43E759479CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B690227A-5598-471F-82BA-40DEC40AEB1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B690227A-5598-471F-82BA-40DEC40AEB1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B690227A-5598-471F-82BA-40DEC40AEB1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B690227A-5598-471F-82BA-40DEC40AEB1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03D49F7F-B832-40B3-BB19-00BEAD83374C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03D49F7F-B832-40B3-BB19-00BEAD83374C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03D49F7F-B832-40B3-BB19-00BEAD83374C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03D49F7F-B832-40B3-BB19-00BEAD83374C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55FE2FC4-DD02-421A-AEB2-FEC38F44338C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55FE2FC4-DD02-421A-AEB2-FEC38F44338C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55FE2FC4-DD02-421A-AEB2-FEC38F44338C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55FE2FC4-DD02-421A-AEB2-FEC38F44338C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {840D3ADD-AF17-4635-BE78-D745EB9CF546}
+	EndGlobalSection
+EndGlobal

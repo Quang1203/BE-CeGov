@@ -1,0 +1,14 @@
+E:\MISA\MISA.CeGov.Web07.GD.NDQuang.API\MISA.CeGov.Web07.GD.NDQuang.Common\obj\Debug\net6.0\MISA.CeGov.Web07.GD.NDQuang.Common.csproj.AssemblyReference.cache
+E:\MISA\MISA.CeGov.Web07.GD.NDQuang.API\MISA.CeGov.Web07.GD.NDQuang.Common\obj\Debug\net6.0\MISA.CeGov.Web07.GD.NDQuang.Common.Resources.Resource.resources
+E:\MISA\MISA.CeGov.Web07.GD.NDQuang.API\MISA.CeGov.Web07.GD.NDQuang.Common\obj\Debug\net6.0\MISA.CeGov.Web07.GD.NDQuang.Common.csproj.GenerateResource.cache
+E:\MISA\MISA.CeGov.Web07.GD.NDQuang.API\MISA.CeGov.Web07.GD.NDQuang.Common\obj\Debug\net6.0\MISA.CeGov.Web07.GD.NDQuang.Common.GeneratedMSBuildEditorConfig.editorconfig
+E:\MISA\MISA.CeGov.Web07.GD.NDQuang.API\MISA.CeGov.Web07.GD.NDQuang.Common\obj\Debug\net6.0\MISA.CeGov.Web07.GD.NDQuang.Common.AssemblyInfoInputs.cache
+E:\MISA\MISA.CeGov.Web07.GD.NDQuang.API\MISA.CeGov.Web07.GD.NDQuang.Common\obj\Debug\net6.0\MISA.CeGov.Web07.GD.NDQuang.Common.AssemblyInfo.cs
+E:\MISA\MISA.CeGov.Web07.GD.NDQuang.API\MISA.CeGov.Web07.GD.NDQuang.Common\obj\Debug\net6.0\MISA.CeGov.Web07.GD.NDQuang.Common.csproj.CoreCompileInputs.cache
+E:\MISA\MISA.CeGov.Web07.GD.NDQuang.API\MISA.CeGov.Web07.GD.NDQuang.Common\bin\Debug\net6.0\MISA.CeGov.Web07.GD.NDQuang.Common.deps.json
+E:\MISA\MISA.CeGov.Web07.GD.NDQuang.API\MISA.CeGov.Web07.GD.NDQuang.Common\bin\Debug\net6.0\MISA.CeGov.Web07.GD.NDQuang.Common.dll
+E:\MISA\MISA.CeGov.Web07.GD.NDQuang.API\MISA.CeGov.Web07.GD.NDQuang.Common\bin\Debug\net6.0\MISA.CeGov.Web07.GD.NDQuang.Common.pdb
+E:\MISA\MISA.CeGov.Web07.GD.NDQuang.API\MISA.CeGov.Web07.GD.NDQuang.Common\obj\Debug\net6.0\MISA.CeGov.Web07.GD.NDQuang.Common.dll
+E:\MISA\MISA.CeGov.Web07.GD.NDQuang.API\MISA.CeGov.Web07.GD.NDQuang.Common\obj\Debug\net6.0\refint\MISA.CeGov.Web07.GD.NDQuang.Common.dll
+E:\MISA\MISA.CeGov.Web07.GD.NDQuang.API\MISA.CeGov.Web07.GD.NDQuang.Common\obj\Debug\net6.0\MISA.CeGov.Web07.GD.NDQuang.Common.pdb
+E:\MISA\MISA.CeGov.Web07.GD.NDQuang.API\MISA.CeGov.Web07.GD.NDQuang.Common\obj\Debug\net6.0\ref\MISA.CeGov.Web07.GD.NDQuang.Common.dll

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "MISA.CeGov.Web07.GD.NDQuang.API.Core/1.0.0": {
+        "dependencies": {
+          "MISA.CeGov.Web07.GD.NDQuang.Common": "1.0.0"
+        },
+        "runtime": {
+          "MISA.CeGov.Web07.GD.NDQuang.API.Core.dll": {}
+        }
+      },
+      "MISA.CeGov.Web07.GD.NDQuang.Common/1.0.0": {
+        "runtime": {
+          "MISA.CeGov.Web07.GD.NDQuang.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MISA.CeGov.Web07.GD.NDQuang.API.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MISA.CeGov.Web07.GD.NDQuang.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

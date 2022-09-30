@@ -1,0 +1,17 @@
+E:\MISA\MISA.CeGov.Web07.GD.NDQuang.API\MISA.CeGov.Web07.GD.NDQuang.Infrastructure\obj\Debug\net6.0\MISA.CeGov.Web07.GD.NDQuang.Infrastructure.csproj.AssemblyReference.cache
+E:\MISA\MISA.CeGov.Web07.GD.NDQuang.API\MISA.CeGov.Web07.GD.NDQuang.Infrastructure\obj\Debug\net6.0\MISA.CeGov.Web07.GD.NDQuang.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\MISA\MISA.CeGov.Web07.GD.NDQuang.API\MISA.CeGov.Web07.GD.NDQuang.Infrastructure\obj\Debug\net6.0\MISA.CeGov.Web07.GD.NDQuang.Infrastructure.AssemblyInfoInputs.cache
+E:\MISA\MISA.CeGov.Web07.GD.NDQuang.API\MISA.CeGov.Web07.GD.NDQuang.Infrastructure\obj\Debug\net6.0\MISA.CeGov.Web07.GD.NDQuang.Infrastructure.AssemblyInfo.cs
+E:\MISA\MISA.CeGov.Web07.GD.NDQuang.API\MISA.CeGov.Web07.GD.NDQuang.Infrastructure\obj\Debug\net6.0\MISA.CeGov.Web07.GD.NDQuang.Infrastructure.csproj.CoreCompileInputs.cache
+E:\MISA\MISA.CeGov.Web07.GD.NDQuang.API\MISA.CeGov.Web07.GD.NDQuang.Infrastructure\bin\Debug\net6.0\MISA.CeGov.Web07.GD.NDQuang.Infrastructure.deps.json
+E:\MISA\MISA.CeGov.Web07.GD.NDQuang.API\MISA.CeGov.Web07.GD.NDQuang.Infrastructure\bin\Debug\net6.0\MISA.CeGov.Web07.GD.NDQuang.Infrastructure.dll
+E:\MISA\MISA.CeGov.Web07.GD.NDQuang.API\MISA.CeGov.Web07.GD.NDQuang.Infrastructure\bin\Debug\net6.0\MISA.CeGov.Web07.GD.NDQuang.Infrastructure.pdb
+E:\MISA\MISA.CeGov.Web07.GD.NDQuang.API\MISA.CeGov.Web07.GD.NDQuang.Infrastructure\bin\Debug\net6.0\MISA.CeGov.Web07.GD.NDQuang.API.Core.dll
+E:\MISA\MISA.CeGov.Web07.GD.NDQuang.API\MISA.CeGov.Web07.GD.NDQuang.Infrastructure\bin\Debug\net6.0\MISA.CeGov.Web07.GD.NDQuang.Common.dll
+E:\MISA\MISA.CeGov.Web07.GD.NDQuang.API\MISA.CeGov.Web07.GD.NDQuang.Infrastructure\bin\Debug\net6.0\MISA.CeGov.Web07.GD.NDQuang.API.Core.pdb
+E:\MISA\MISA.CeGov.Web07.GD.NDQuang.API\MISA.CeGov.Web07.GD.NDQuang.Infrastructure\bin\Debug\net6.0\MISA.CeGov.Web07.GD.NDQuang.Common.pdb
+E:\MISA\MISA.CeGov.Web07.GD.NDQuang.API\MISA.CeGov.Web07.GD.NDQuang.Infrastructure\obj\Debug\net6.0\MISA.CeGov.Web07.GD.NDQuang.Infrastructure.csproj.CopyComplete
+E:\MISA\MISA.CeGov.Web07.GD.NDQuang.API\MISA.CeGov.Web07.GD.NDQuang.Infrastructure\obj\Debug\net6.0\MISA.CeGov.Web07.GD.NDQuang.Infrastructure.dll
+E:\MISA\MISA.CeGov.Web07.GD.NDQuang.API\MISA.CeGov.Web07.GD.NDQuang.Infrastructure\obj\Debug\net6.0\refint\MISA.CeGov.Web07.GD.NDQuang.Infrastructure.dll
+E:\MISA\MISA.CeGov.Web07.GD.NDQuang.API\MISA.CeGov.Web07.GD.NDQuang.Infrastructure\obj\Debug\net6.0\MISA.CeGov.Web07.GD.NDQuang.Infrastructure.pdb
+E:\MISA\MISA.CeGov.Web07.GD.NDQuang.API\MISA.CeGov.Web07.GD.NDQuang.Infrastructure\obj\Debug\net6.0\ref\MISA.CeGov.Web07.GD.NDQuang.Infrastructure.dll

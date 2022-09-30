@@ -1,0 +1,15 @@
+E:\MISA\MISA.CeGov.Web07.GD.NDQuang.API\MISA.CeGov.Web07.GD.NDQuang.API.Core\obj\Debug\net6.0\MISA.CeGov.Web07.GD.NDQuang.API.Core.csproj.AssemblyReference.cache
+E:\MISA\MISA.CeGov.Web07.GD.NDQuang.API\MISA.CeGov.Web07.GD.NDQuang.API.Core\obj\Debug\net6.0\MISA.CeGov.Web07.GD.NDQuang.API.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\MISA\MISA.CeGov.Web07.GD.NDQuang.API\MISA.CeGov.Web07.GD.NDQuang.API.Core\obj\Debug\net6.0\MISA.CeGov.Web07.GD.NDQuang.API.Core.AssemblyInfoInputs.cache
+E:\MISA\MISA.CeGov.Web07.GD.NDQuang.API\MISA.CeGov.Web07.GD.NDQuang.API.Core\obj\Debug\net6.0\MISA.CeGov.Web07.GD.NDQuang.API.Core.AssemblyInfo.cs
+E:\MISA\MISA.CeGov.Web07.GD.NDQuang.API\MISA.CeGov.Web07.GD.NDQuang.API.Core\obj\Debug\net6.0\MISA.CeGov.Web07.GD.NDQuang.API.Core.csproj.CoreCompileInputs.cache
+E:\MISA\MISA.CeGov.Web07.GD.NDQuang.API\MISA.CeGov.Web07.GD.NDQuang.API.Core\bin\Debug\net6.0\MISA.CeGov.Web07.GD.NDQuang.API.Core.deps.json
+E:\MISA\MISA.CeGov.Web07.GD.NDQuang.API\MISA.CeGov.Web07.GD.NDQuang.API.Core\bin\Debug\net6.0\MISA.CeGov.Web07.GD.NDQuang.API.Core.dll
+E:\MISA\MISA.CeGov.Web07.GD.NDQuang.API\MISA.CeGov.Web07.GD.NDQuang.API.Core\bin\Debug\net6.0\MISA.CeGov.Web07.GD.NDQuang.API.Core.pdb
+E:\MISA\MISA.CeGov.Web07.GD.NDQuang.API\MISA.CeGov.Web07.GD.NDQuang.API.Core\bin\Debug\net6.0\MISA.CeGov.Web07.GD.NDQuang.Common.dll
+E:\MISA\MISA.CeGov.Web07.GD.NDQuang.API\MISA.CeGov.Web07.GD.NDQuang.API.Core\bin\Debug\net6.0\MISA.CeGov.Web07.GD.NDQuang.Common.pdb
+E:\MISA\MISA.CeGov.Web07.GD.NDQuang.API\MISA.CeGov.Web07.GD.NDQuang.API.Core\obj\Debug\net6.0\MISA.CeGov.Web07.GD.NDQuang.API.Core.csproj.CopyComplete
+E:\MISA\MISA.CeGov.Web07.GD.NDQuang.API\MISA.CeGov.Web07.GD.NDQuang.API.Core\obj\Debug\net6.0\MISA.CeGov.Web07.GD.NDQuang.API.Core.dll
+E:\MISA\MISA.CeGov.Web07.GD.NDQuang.API\MISA.CeGov.Web07.GD.NDQuang.API.Core\obj\Debug\net6.0\refint\MISA.CeGov.Web07.GD.NDQuang.API.Core.dll
+E:\MISA\MISA.CeGov.Web07.GD.NDQuang.API\MISA.CeGov.Web07.GD.NDQuang.API.Core\obj\Debug\net6.0\MISA.CeGov.Web07.GD.NDQuang.API.Core.pdb
+E:\MISA\MISA.CeGov.Web07.GD.NDQuang.API\MISA.CeGov.Web07.GD.NDQuang.API.Core\obj\Debug\net6.0\ref\MISA.CeGov.Web07.GD.NDQuang.API.Core.dll
